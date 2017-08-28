@@ -1,5 +1,6 @@
 import scala.util.Random
 
+/** Example showing the usage the numerical gradient in order to learn the coefficients of f(x, y) = a * x + b * y + c from training examples **/
 object NumericalGradientExample extends App {
 // coefficients associated with function to learn
 val coefficients: List[Double] = List(3, 4, -10)
