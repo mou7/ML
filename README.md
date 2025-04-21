@@ -1,2 +1,2 @@
 # ML
-Some ML algorithms/notions 
+Some fun with ML algorithms/notions written in Scala 
